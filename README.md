@@ -1,11 +1,12 @@
 
-<center>
-# MusicBud
-</center>
+<h1 align="center">
+MusicBud </h1>
 
-<center>
-##### REST API matches users with similar taste in music based on Spotify API.
-</center>
+
+<h5 align="center">
+ REST API matches users with similar taste in music based on Spotify API.
+ </h5>
+
 
 <h5 align="center">The project is in progress</h5>
 
